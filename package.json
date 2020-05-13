@@ -2,7 +2,7 @@
   "name": "bsml-generator",
   "version": "1.0.0",
   "description": "Create UIs and export them as Beatsaber Markup Language",
-  "main": "index.js",
+  "main": "src/js/app.js",
   "dependencies": {
     "tailwindcss": "^1.4.6"
   },
